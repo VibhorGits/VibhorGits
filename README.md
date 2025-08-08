@@ -9,9 +9,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **blockchain-based apps and Android projects**
-- 🌱 I’m exploring **Web3, Smart Contracts, Kotlin, Compose UI**
-- 💻 I’ve built my own **text app** — check it out: [vibhor.codes](https://vibhor.codes/)
+- 🔭 I’m currently working on **blockchain-based apps and DSA**
+- 🌱 I’m exploring **Web3, Smart Contracts, Machine Learning**
+- 💻 Check out my website: [vibhor.codes](https://vibhor.codes/)
 - ⚡ Fun fact: I’m a big believer in self-paced learning and community-driven development!
 
 ---
@@ -40,7 +40,7 @@
 
 ## 🏅 Holopin Badges
 
-[![@vibhorgits's Holopin board](https://holopin.io/api/user/board?user=vibhorgits)](https://holopin.io/@vibhorgits)
+[![An image of @vibhorgits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vibhorgits)](https://holopin.io/@vibhorgits)
 
 ---
 
@@ -71,7 +71,7 @@ Here are a few cool things I’ve been working on 👇
 ## 📚 Currently Learning
 
 - ✨ Advanced Solidity  
-- 📈 Data Structures and Low Lever Design
+- 📈 Data Structures and Low Level Design
 
 ---
 
@@ -80,5 +80,3 @@ Here are a few cool things I’ve been working on 👇
 Whether it's collaborating on open-source, solving challenges, or just geeking out over tech—I'm all in 🚀
 
 ---
-
-<p align="center">Made with ❤️ by Vibhor Bhatt</p>
